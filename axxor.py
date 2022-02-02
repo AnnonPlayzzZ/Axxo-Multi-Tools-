@@ -246,31 +246,31 @@ def spammer():
     colorama.init()
     print('')
     print('')
-    print(f'                                   {Fore.LIGHTMAGENTA_EX}   ░█████╗░██╗░░██╗██╗░░██╗░█████╗░██████╗')
+    print(f'                                   {Fore.GREEN}   ░█████╗░██╗░░██╗██╗░░██╗░█████╗░██████╗')
     print(f'                                      ██╔══██╗╚██╗██╔╝╚██╗██╔╝██╔══██╗██╔══██╗')
     print(f'                                      ███████║░╚███╔╝░░╚███╔╝░██║░░██║██████╔╝')
     print(f'                                      ██╔══██║░██╔██╗░░██╔██╗░██║░░██║██╔══██╗')
     print(f'                                      ██║░░██║██╔╝╚██╗██╔╝╚██╗╚█████╔╝██║░░██║')
-    print(f'{Fore.WHITE}> Made by AnnonPlyazZZ{Fore.RESET}                     {Fore.LIGHTMAGENTA_EX}╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝')
+    print(f'{Fore.WHITE}> Made by AnnonPlyazZZ{Fore.RESET}                     {Fore.GREEN}╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝')
     print(f'{Fore.WHITE}> https://github.com/AnnonPlayzzZ{Fore.RESET}') 
-    print(f'{Fore.LIGHTMAGENTA_EX}════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════{Fore.RESET}')
+    print(f'{Fore.GREEN}════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════{Fore.RESET}')
     print(
-        f'{Fore.LIGHTMAGENTA_EX}[1]{Fore.RESET} Joiner          {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[9]{Fore.RESET}  Spammer           {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[17]{Fore.RESET} MassReport{Fore.RESET}          {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[25]{Fore.RESET} COMING SOON...{Fore.RESET}')
+        f'{Fore.GREEN}[1]{Fore.RESET} Joiner          {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[9]{Fore.RESET}  Spammer           {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[17]{Fore.RESET} MassReport{Fore.RESET}          {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[25]{Fore.RESET} COMING SOON...{Fore.RESET}')
     print(
-        f'{Fore.LIGHTMAGENTA_EX}[2]{Fore.RESET} Leaver          {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[10]{Fore.RESET} DM Spammer        {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[18]{Fore.RESET} About/Activity{Fore.RESET}      {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[26]{Fore.RESET} COMING SOON...{Fore.RESET}')
+        f'{Fore.GREEN}[2]{Fore.RESET} Leaver          {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[10]{Fore.RESET} DM Spammer        {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[18]{Fore.RESET} About/Activity{Fore.RESET}      {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[26]{Fore.RESET} COMING SOON...{Fore.RESET}')
     print(
-        f'{Fore.LIGHTMAGENTA_EX}[3]{Fore.RESET} Token Checker   {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[11]{Fore.RESET} Friend Spammer    {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[19]{Fore.RESET} Typing Spammer{Fore.RESET}      {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[27]{Fore.RESET}{Fore.LIGHTRED_EX} Exit{Fore.RESET}')
+        f'{Fore.GREEN}[3]{Fore.RESET} Token Checker   {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[11]{Fore.RESET} Friend Spammer    {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[19]{Fore.RESET} Typing Spammer{Fore.RESET}      {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[27]{Fore.RESET}{Fore.LIGHTRED_EX} Exit{Fore.RESET}')
     print(
-        f'{Fore.LIGHTMAGENTA_EX}[4]{Fore.RESET} Token Onliner   {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[12]{Fore.RESET} HypeSquad Joiner  {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[20]{Fore.RESET} Token Bruteforcer{Fore.RESET}')
+        f'{Fore.GREEN}[4]{Fore.RESET} Token Onliner   {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[12]{Fore.RESET} HypeSquad Joiner  {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[20]{Fore.RESET} Token Bruteforcer{Fore.RESET}')
     print(
-        f'{Fore.LIGHTMAGENTA_EX}[5]{Fore.RESET} Token Grabber   {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[13]{Fore.RESET} Reaction Spam     {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[21]{Fore.RESET} Status Changer{Fore.RESET}')
+        f'{Fore.GREEN}[5]{Fore.RESET} Token Grabber   {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[13]{Fore.RESET} Reaction Spam     {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[21]{Fore.RESET} Status Changer{Fore.RESET}')
     print(
-        f'{Fore.LIGHTMAGENTA_EX}[6]{Fore.RESET} Server MassDM   {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[14]{Fore.RESET} NickName Changer  {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[22]{Fore.RESET} Group Spammer{Fore.RESET}')
+        f'{Fore.GREEN}[6]{Fore.RESET} Server MassDM   {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[14]{Fore.RESET} NickName Changer  {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[22]{Fore.RESET} Group Spammer{Fore.RESET}')
     print(
-        f'{Fore.LIGHTMAGENTA_EX}[7]{Fore.RESET} Account Nuker   {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[15]{Fore.RESET} Webhook Spammer   {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[23]{Fore.RESET} About {Fore.RESET}')
+        f'{Fore.GREEN}[7]{Fore.RESET} Account Nuker   {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[15]{Fore.RESET} Webhook Spammer   {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[23]{Fore.RESET} About {Fore.RESET}')
     print(
-        f'{Fore.LIGHTMAGENTA_EX}[8]{Fore.RESET} Server Nuker    {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[16]{Fore.RESET} VC Spammer        {Fore.BLACK}|{Fore.RESET}{Fore.LIGHTMAGENTA_EX}[24]{Fore.RESET} Tools {Fore.RESET}')
-    print(f'{Fore.LIGHTMAGENTA_EX}════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════{Fore.RESET}')
+        f'{Fore.GREEN}[8]{Fore.RESET} Server Nuker    {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[16]{Fore.RESET} VC Spammer        {Fore.BLACK}|{Fore.RESET}{Fore.GREEN}[24]{Fore.RESET} Tools {Fore.RESET}')
+    print(f'{Fore.GREEN}════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════{Fore.RESET}')
     choice = input('[-->] ')
 
     if choice == '9':
