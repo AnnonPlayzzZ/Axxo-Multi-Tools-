@@ -1,10 +1,8 @@
-# Made by ††#7777 | https://github.com/TT-Tutorials | https://dsc.gg/raided
 # You need to have tokens.txt at same folder, at tokens.txt put your own tokens. For token bruteforcer you need to create .txt file named grab.txt
 # You need to write to cmd: pip install discord, pip install pyautoui, pip install requests, pip install websocket, pip install emoji, pip install json, pip intall base64, pip install colorama. Without it, the code will not work.
 # AXXORNUKER Discord Multi Tool / Nuker ©
 
 
-# Copyright (c) 2021 ††#7777
 
 # Permission is hereby granted, free of charge, to any person
 # obtaining a copy of this software and associated documentation
